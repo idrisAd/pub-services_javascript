@@ -1,0 +1,23 @@
+{
+  "name": "pub-services",
+  "version": "1.0.0",
+  "description": "TP node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idrisAd/pub-services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idrisAd/pub-services/issues"
+  },
+  "homepage": "https://github.com/idrisAd/pub-services#readme",
+  "dependencies": {
+    "moment": "^2.19.1"
+  }
+}
