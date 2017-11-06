@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idrisAd/pub-services.git"
+    "url": "git+https://github.com/idrisAd/pub-services_javascript.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/idrisAd/pub-services/issues"
+    "url": "https://github.com/idrisAd/pub-services_javascript/issues"
   },
-  "homepage": "https://github.com/idrisAd/pub-services#readme",
+  "homepage": "https://github.com/idrisAd/pub-services_javascript#readme",
   "dependencies": {
     "moment": "^2.19.1"
   }
